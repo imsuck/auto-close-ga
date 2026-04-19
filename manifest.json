@@ -1,0 +1,10 @@
+{
+	"id": "auto-close-ga",
+	"name": "Auto Close Graph Analysis",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Close that random new tab on the sidebar when Graph Analysis is enabled",
+	"author": "Obsidian",
+	"authorUrl": "https://github.com/imsuck",
+	"isDesktopOnly": false
+}
