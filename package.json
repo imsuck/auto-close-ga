@@ -1,6 +1,6 @@
 {
 	"name": "auto-close-ga",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Close that random new tab on the sidebar when Graph Analysis is enabled",
 	"main": "main.js",
 	"type": "module",
