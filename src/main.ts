@@ -11,7 +11,7 @@ export default class AutoCloseGA extends Plugin {
 			}
 		};
 		// Graph analysis takes some time to init
-		this.app.workspace.onLayoutReady(() => setTimeout(cleanUp, 1e3));
+		this.app.workspace.onLayoutReady(() => setTimeout(cleanUp, 3e3));
 	}
 	async onunload() { }
 }
